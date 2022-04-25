@@ -41,5 +41,5 @@ function clickbtncalcular() {
   }
 
   document.getElementById("result").innerHTML =
-    "Su imc es " + Math.round(imc) + " es " + imctype;
+    "Su imc es " + Math.round(imc) + " y es " + imctype;
 }
